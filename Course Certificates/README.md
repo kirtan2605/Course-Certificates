@@ -1,2 +1,2 @@
 Computational Thinking for Problem Solving <br />
-Basics of Data Science
+LUDS1120A0661 Essesntials of Data Science
