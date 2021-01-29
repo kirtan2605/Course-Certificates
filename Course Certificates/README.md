@@ -4,4 +4,4 @@ LUDS1120A0661 : Essesntials of Data Science <br />
 <br />
 
 ## Digital Signal Processing
-LMVR4X4SM273 : Digital Signal Processing 1: Basic Concepts and Algorithms
+LMVR4X4SM273 : Digital Signal Processing 1- Basic Concepts and Algorithms
