@@ -1,8 +1,0 @@
-W3ZRT9EG3SW3 : Computational Thinking for Problem Solving
-LUDS1120A0661 : Essesntials of Data Science
-LMVR4X4SM273 : Digital Signal Processing 1 - Basic Concepts and Algorithms
-
-
-Python 3 Programming
-PZG67DWTMJ7N : Python 3 Programming 1 - Python Basic
-NMJESL77T57W : Python 3 Programming 2 - Python Functions, Files, and Dictionaries
