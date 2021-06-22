@@ -16,3 +16,8 @@ HWYHPDV7TD7T : **Python 3 Programming Specialization** <br />
 ##  Introduction to Discrete Mathematics for Computer Science Specialization
 NNT8NAZVVN29 : Course 1 - Mathematical Thinking in Computer Science <br />
 ECA7TR67E883 : Course 2 - Combinatorics and Probability <br />
+
+<br />
+
+##  Data Structures and Algorithms Specialization 
+6M2CQMG9GHY3 : Algorithmic Toolbox  <br />
