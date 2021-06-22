@@ -20,4 +20,4 @@ ECA7TR67E883 : Course 2 - Combinatorics and Probability <br />
 <br />
 
 ##  Data Structures and Algorithms Specialization 
-6M2CQMG9GHY3 : Algorithmic Toolbox  <br />
+6M2CQMG9GHY3 : Course 1 - Algorithmic Toolbox  <br />
