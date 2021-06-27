@@ -16,6 +16,7 @@ HWYHPDV7TD7T : **Python 3 Programming Specialization** <br />
 ##  Introduction to Discrete Mathematics for Computer Science Specialization
 NNT8NAZVVN29 : Course 1 - Mathematical Thinking in Computer Science <br />
 ECA7TR67E883 : Course 2 - Combinatorics and Probability <br />
+8Y9VRS78YSCW : Course 3 - Introduction to Graph Theory <br />
 
 <br />
 
